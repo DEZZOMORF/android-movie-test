@@ -1,0 +1,3 @@
+TMDB_API_KEY: '27adf303dbc31597e9f888fe574ddd82'
+HOST: 'https://api.themoviedb.org/3/'
+POSTER_HOST: 'https://image.tmdb.org/t/p/w500'

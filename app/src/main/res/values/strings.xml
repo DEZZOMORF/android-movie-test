@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Test</string>
+    <string name="main_tab_films">Films</string>
+    <string name="main_tab_favourites">Favourites</string>
+    <string name="unknown_date">Unknown Date</string>
+    <string name="error_occurred">Error occurred!</string>
+    <string name="no_favorites_yet">No favorites yet!</string>
+</resources>
